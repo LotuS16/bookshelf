@@ -1,0 +1,12 @@
+#page{
+    text-align: center;
+    
+    box-shadow: 10%;
+    flex-direction: row;
+}
+
+.judul{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
